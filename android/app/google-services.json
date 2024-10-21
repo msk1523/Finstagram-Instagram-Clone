@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068709879852",
+    "project_id": "finstagram-instagram-clone",
+    "storage_bucket": "finstagram-instagram-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068709879852:android:4dec8aad435bd233e6f189",
+        "android_client_info": {
+          "package_name": "com.example.finstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEL8pAnc8XucGuULjTaFkh-tdnFauJns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
